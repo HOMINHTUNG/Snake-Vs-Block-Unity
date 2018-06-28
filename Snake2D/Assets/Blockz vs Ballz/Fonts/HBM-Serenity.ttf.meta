@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: faddb2db5e818af4c89379e31c19c61e
+timeCreated: 1496789523
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HBM Serenity
+  fontNames:
+  - HBM Serenity
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2f409ed069bfae948bc77bc652a21605, type: 3}
+  - {fileID: 12800000, guid: 58c67631b86902647bea0182f2ad4047, type: 3}
+  - {fileID: 12800000, guid: be7e1d323a75bd14ba656fbad641d063, type: 3}
+  - {fileID: 12800000, guid: 3b983242c8d49ff40a25b6f1ea67e7e7, type: 3}
+  - {fileID: 12800000, guid: 0e55cc92913e1a34cb49d98a572f769f, type: 3}
+  - {fileID: 12800000, guid: d2edcb46cf60390469b879fe7f4667ba, type: 3}
+  - {fileID: 12800000, guid: 5be796d8cb455c64d9dcdb566637f9ba, type: 3}
+  - {fileID: 12800000, guid: 98397a39dd2634e4399b48b9d4eb26e7, type: 3}
+  - {fileID: 12800000, guid: 7e610f6d140d664498e91b6e8d867901, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

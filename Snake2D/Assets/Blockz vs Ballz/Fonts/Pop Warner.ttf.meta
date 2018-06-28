@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1499eb7a6bf136541a0f4ff28b7b447d
+timeCreated: 1495285855
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pop Warner
+  fontNames:
+  - Pop Warner
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

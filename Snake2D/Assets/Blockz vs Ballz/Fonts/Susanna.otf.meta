@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d45199e1aae852c4dbbdc8125bb32dfc
+timeCreated: 1496789372
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Susanna
+  fontNames:
+  - Susanna
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
