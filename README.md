@@ -10,6 +10,7 @@ Get additional balls and make the biggest snake ever!
 
 Very easy to play but very hard to reach high scores!
 
+## Images
 <img src="https://i.imgur.com/lw4duLt.png" width="400px" height="700px">
 
 <img src="https://i.imgur.com/mhZKoX4.png" width="400px" height="700px">
@@ -28,3 +29,4 @@ Very easy to play but very hard to reach high scores!
 
 <img src="https://i.imgur.com/Y870hAs.png" width="400px" height="700px">
 
+<img src="https://i.imgur.com/EHMzGxx.jpg" width="400px" height="700px">
