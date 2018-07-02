@@ -22,9 +22,9 @@ Very easy to play but very hard to reach high scores!
 
 <img src="https://i.imgur.com/C46OASB.png" width="400px" height="700px">
 
-<img src="https://i.imgur.com/1rQt2Vf.jpg" width="400px" height="700px">
-
 <img src="https://i.imgur.com/lCDKzLG.jpg" width="400px" height="700px">
+
+<img src="https://i.imgur.com/1rQt2Vf.jpg" width="400px" height="700px">
 
 <img src="https://i.imgur.com/Y870hAs.png" width="400px" height="700px">
 
